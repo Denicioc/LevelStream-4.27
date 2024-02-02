@@ -2,6 +2,6 @@
 
 Developed with Unreal Engine 4
 
-Exercício Módulo 37
+Exercício Módulo 38
 
-- Criado NPC com IA de comportamento de patrulha;
+- Criado Behavior Tree para NPCs onde o comportamento de patrulha/idle muda para comportamento de jogador avistado e perseguição;

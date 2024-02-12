@@ -2,6 +2,7 @@
 
 Developed with Unreal Engine 4
 
-Exercício Módulo 38
+Exercício Módulo 39
 
-- Criado Behavior Tree para NPCs onde o comportamento de patrulha/idle muda para comportamento de jogador avistado e perseguição;
+- Uso de EQS em NPC inimigo para implementar comportamento de alerta;
+- Criado arena de chefão para testes do comportamento de IA implementado;
